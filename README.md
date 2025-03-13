@@ -8,4 +8,6 @@ My pronouns are He/Him/His, but I could care less what pronouns you use.
 
 Fun fact: I'm bored!
 
+Check out my [Modrinth](https://modrinth.com/user/TheAxolotlLord) Page!
+
 :P
