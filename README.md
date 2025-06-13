@@ -15,7 +15,7 @@ I also have a [YT](https://youtube.com/@realaxolotllord), which you should subsc
 
 This list will probably change in the future. HTML, CSS, maybe JS, C, C++, Ren'Py, and potentially many more probably will appear here!
 
-![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAxolotlLord&layout=compact&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAxolotlLord&layout=donut-vertical&theme=cobalt)](https://github.com/TheAxolotlLord/#)
 
 ---
 
