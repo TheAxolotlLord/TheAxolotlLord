@@ -21,4 +21,4 @@ This list will probably change in the future. JS, C, C++, Ren'Py, and potentiall
 
 Github Stats! AHH!
 
-![TheAxolotlLord's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAxolotlLord&layout=compact&show_icons=true&theme=dark)
+[![TheAxolotlLord's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAxolotlLord&layout=compact&show_icons=true&theme=dark)](https://github.com/TheAxolotlLord/#)
