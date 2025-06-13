@@ -13,7 +13,7 @@ I also have a [YT](https://youtube.com/@realaxolotllord), which you should subsc
 
 ---
 
-This list will probably change in the future. HTML, CSS, maybe JS, C, C++, Ren'Py, and potentially many more probably will appear here!
+This list will probably change in the future. CSS, maybe JS, C, C++, Ren'Py, and potentially many more probably will appear here!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAxolotlLord&layout=donut-vertical&theme=cobalt)](https://github.com/TheAxolotlLord/#)
 
