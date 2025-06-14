@@ -13,12 +13,9 @@ I also have a [YT](https://youtube.com/@realaxolotllord), which you should subsc
 
 ---
 
-This list will probably change in the future. JS, C, C++, Ren'Py, and potentially many more probably will appear here!
+This list will probably change in the future. And look, it's my GitHub stats!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAxolotlLord&layout=donut-vertical&theme=tokyonight)](https://github.com/TheAxolotlLord/#)
+[![TheAxolotlLord's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAxolotlLord&show_icons=true&theme=transparent)](https://github.com/TheAxolotlLord/#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAxolotlLord&layout=donut&theme=transparent)](https://github.com/TheAxolotlLord/#)
 
----
 
-Github Stats! AHH!
-
-[![TheAxolotlLord's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAxolotlLord&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/TheAxolotlLord/#)
