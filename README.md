@@ -4,7 +4,7 @@ I’m TheAxolotlLord.
 
 I’m interested in coding, gaming, and chillin'.
 
-My pronouns are He/Him/His, but I could care less what pronouns you use.
+I normally go by He/Him/His, but you can use whatever.
 
 ---
 
